@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 /**
  * 
- * @author Siddhesh
+ * @author Siddhesh Rumde Rumde Rumde
  * 
  *  I would like to first define a few terms :
  *  A. Grouping equivalence: combining the same symbols to form a larger one e.g.: VV = X, XXXXX = L, etc
